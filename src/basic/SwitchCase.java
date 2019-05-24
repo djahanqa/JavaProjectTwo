@@ -14,8 +14,7 @@ public class SwitchCase {
                 System.out.println("squash is equal to 300");
                 break;
                 default:
-
-                System.out.println("squash is equal to 300");
+                    System.out.println("I will buy it no matter how much it cost");
 
 
 
