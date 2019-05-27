@@ -6,9 +6,9 @@ public class NestedIfElse {
         if(bangles>500) {
             if(bangles==600);
             if(bangles==2000);
-            System.out.println("bangles is equal to 500");
+            System.out.println("bangles are not equal to 500");
         }else{
-            System.out.println("bangles is equal to 2000");
+            System.out.println("bangles are equal to 2000");
         }
 
     }
