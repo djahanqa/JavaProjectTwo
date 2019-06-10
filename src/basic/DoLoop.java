@@ -8,8 +8,8 @@ public class DoLoop {
         int Humidity = 1;
 
         do {
-            System.out.println("Today's weather report=" + Humidity);
-            Temperature--;
+            System.out.println("Today's weather report=" + Temperature);
+            Humidity--;
         }
             while (Temperature - PossibilityOfRain - Humidity > 2) ;
 
